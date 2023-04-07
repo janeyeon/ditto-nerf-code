@@ -21,8 +21,9 @@
 
 > **DITTO-NeRF: Diffusion-based Iterative Text To Omni-directional 3D Model**<br>
 > [Hoigi Seo*](https://github.com/seohoiki3215), [Hayeon Kim*](https://github.com/janeyeon), [Gwanghyun Kim*](https://gwang-kim.github.io/), [Se Young Chun](https://icl.snu.ac.kr/pi) <br>
+> 
 >**Code**: <br>
-> Comming soon
+> Coming soon
 > 
 > 
 >**Abstract**: <br>
