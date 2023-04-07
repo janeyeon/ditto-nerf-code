@@ -1,7 +1,7 @@
 # DITTO-NeRF: Diffusion-based Iterative Text To Omni-directional 3D Model
 
-<!-- [![arXiv](https://img.shields.io/badge/arXiv-2211.16374-red)](https://arxiv.org/abs/2211.16374) [![project_page](https://img.shields.io/badge/-project%20page-blue)](https://janeyeon.github.io/ditto-nerf/) -->
- [![project_page](https://img.shields.io/badge/-project%20page-blue)](https://janeyeon.github.io/ditto-nerf/)
+[![arXiv](https://img.shields.io/badge/arXiv-2211.16374-red)](https://arxiv.org/abs/2304.02827) [![project_page](https://img.shields.io/badge/-project%20page-blue)](https://janeyeon.github.io/ditto-nerf/)
+<!--  [![project_page](https://img.shields.io/badge/-project%20page-blue)](https://janeyeon.github.io/ditto-nerf/) -->
 
 
 [//]: # ()
